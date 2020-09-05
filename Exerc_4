@@ -1,0 +1,37 @@
+<html>
+
+	<head>
+		<title> Exercicio 4 - Inserindo Imagens.</title>
+	</head>
+	
+	<body>
+		<p><FONT face="Verdana" size="5" Color="ff0099"> Principais pontos turisticos.</FONT face="verdana" size="5" Color="ff0099"> </P>
+			
+
+<br>
+			<ol>
+				<li><b>Porto Alegre</b> 
+<img src="file:///C:/Users/ASF/Desktop/Felipe/img_ex/Porto_Alegre.jpg" align="bottom" alt="Fotos de Porto Alegre"></LI>
+					<UL type="circle">
+						<li>Casa de Cultura Mario Quintana</li>
+						<li>Jardim Botânico</li>
+						<li>Parque Mauricio Sirotsky Sobrinho</li>
+
+						<li>Lago de Guaíba</li>
+					</ul>
+				<br>
+				<LI><B>Manaus</b>
+
+<img src="file:///C:/Users/ASF/Desktop/Felipe/img_ex/Manaus.jpg" align="bottom" alt="Fotos de Manaus"></LI>
+					<UL type="circle">
+						<li>Econtro das águas</li>
+
+						<li>Palácio Rio Negro</li>
+						<li>Centro cultural dos povos da Amazônia</li>
+						<li>eatro Amazonas</li>
+					</ul>
+			</ol><br>
+		<p>Independente da cidade escolhida, você terá opções maravilhosas para curtir suas férias.</p>
+		</body>
+
+</HTML>
