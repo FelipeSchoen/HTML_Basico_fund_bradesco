@@ -11,7 +11,7 @@
 <br>
 			<ol>
 				<li><b>Porto Alegre</b> 
-<img src="https://raw.githubusercontent.com/FelipeSchoen/HTML_Basico_fund_bradesco/master/Porto_Alegre.jpg" align="bottom" alt="Fotos de Porto Alegre"></LI>
+					<img src="https://raw.githubusercontent.com/FelipeSchoen/HTML_Basico_fund_bradesco/master/Porto_Alegre.jpg" align="bottom" alt="Fotos de Porto Alegre"></LI>
 					<UL type="circle">
 						<li>Casa de Cultura Mario Quintana</li>
 						<li>Jardim Botânico</li>
@@ -22,7 +22,7 @@
 				<br>
 				<LI><B>Manaus</b>
 
-<img src="https://raw.githubusercontent.com/FelipeSchoen/HTML_Basico_fund_bradesco/master/Manaus.jpg" align="bottom" alt="Fotos de Manaus"></LI>
+					<img src="https://raw.githubusercontent.com/FelipeSchoen/HTML_Basico_fund_bradesco/master/Manaus.jpg" align="bottom" alt="Fotos de Manaus"></LI>
 					<UL type="circle">
 						<li>Econtro das águas</li>
 
