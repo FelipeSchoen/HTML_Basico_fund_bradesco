@@ -1,12 +1,13 @@
 # HTML_Basico_fund_bradesco<br>
-Curso de HMTL básico oferecido pela Fundação Bradesco<br>
-Temas abordados:<br>
-1 - Introdução ao HTML<br>
-2 - HTML e a web<br>
-3 - Criando um documento HTML<br>
-4 - Formatando um documento HTML<br>
-5 - Criando Listas<br>
-6 - Inserindo Imagens<br>
-7 - Criando Links<br>
-8 - Combinando Tags<br>
-9 - Usando Imagens mapeadas<br>
+<p>Curso de HMTL básico oferecido pela Fundação Bradesco<br></P>
+<p>Temas abordados:<br></p>
+<ol>
+  <li>Introdução ao HTML<br></li>
+  <li>HTML e a web<br></li>
+  <li>Criando um documento HTML<br></li>
+  <li>Formatando um documento HTML<br></li>
+  <li>Criando Listas<br></li>
+  <li>Inserindo Imagens<br></li>
+  <li>Criando Links<br></li>
+  <li>Combinando Tags<br></li>
+  <li>Usando Imagens mapeadas<br></li>
