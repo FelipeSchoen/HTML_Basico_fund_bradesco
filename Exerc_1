@@ -1,6 +1,9 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-br">
 
 	<head>
+		<meta charset="UTF-8">
+
 		<title> Exercicio 1</title>
 	</head>
 	
@@ -10,5 +13,5 @@
 		Nasc. 15/11/1989<br>
 		End.Rua Pedro da Rocha Pimentel, 99 Jd. Edi - São Paulo SP</P>
 		<p>Muito Legal</p>
-		</body>
+	</body>
 </HTML>
